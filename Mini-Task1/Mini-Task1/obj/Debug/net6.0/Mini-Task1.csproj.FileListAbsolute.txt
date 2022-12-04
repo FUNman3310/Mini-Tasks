@@ -1,0 +1,15 @@
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\bin\Debug\net6.0\Mini-Task1.exe
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\bin\Debug\net6.0\Mini-Task1.deps.json
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\bin\Debug\net6.0\Mini-Task1.runtimeconfig.json
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\bin\Debug\net6.0\Mini-Task1.dll
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\bin\Debug\net6.0\ref\Mini-Task1.dll
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\bin\Debug\net6.0\Mini-Task1.pdb
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\obj\Debug\net6.0\Mini-Task1.csproj.AssemblyReference.cache
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\obj\Debug\net6.0\Mini-Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\obj\Debug\net6.0\Mini-Task1.AssemblyInfoInputs.cache
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\obj\Debug\net6.0\Mini-Task1.AssemblyInfo.cs
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\obj\Debug\net6.0\Mini-Task1.csproj.CoreCompileInputs.cache
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\obj\Debug\net6.0\Mini-Task1.dll
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\obj\Debug\net6.0\ref\Mini-Task1.dll
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\obj\Debug\net6.0\Mini-Task1.pdb
+C:\Users\Fuad\Desktop\C#\Mini-Task1\Mini-Task1\obj\Debug\net6.0\Mini-Task1.genruntimeconfig.cache
